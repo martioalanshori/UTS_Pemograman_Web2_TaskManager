@@ -1,4 +1,4 @@
-# Task Manager = UTS Pemograman Web 2
+# Task Manager - UTS Pemograman Web 2
 
 Backend RESTful API untuk aplikasi Task Manager, dibangun menggunakan Node.js, Express.js, dan PostgreSQL.
 
