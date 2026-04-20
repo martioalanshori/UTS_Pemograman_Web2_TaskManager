@@ -1,0 +1,22 @@
+{
+  "name": "task-manager-backend",
+  "version": "1.0.0",
+  "description": "RESTful API untuk aplikasi Task Manager - Tugas UTS Pemrograman Web 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node test-app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
