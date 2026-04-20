@@ -1,10 +1,8 @@
-# Task Manager Backend API
+# Task Manager - UTS Pemograman Web 2
 
 Backend RESTful API untuk aplikasi Task Manager, dibangun menggunakan Node.js, Express.js, dan PostgreSQL.
 
-Tugas UTS - Pemrograman Web 2
-
-## Teknologi
+## Tech Stack
 
 - Node.js
 - Express.js
@@ -163,3 +161,6 @@ Script menguji 10 skenario secara otomatis:
 8. PUT /tasks/:id - ID tidak ditemukan
 9. DELETE /tasks/:id - Delete valid
 10. DELETE /tasks/:id - ID tidak ditemukan
+
+## Muhammad Martio Al Anshori - 23552011350
+
